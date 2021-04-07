@@ -1,2 +1,15 @@
 # ML_music_emotion
-who reads this
+
+
+| Name  | Task      |
+|-------------|----------------|
+| Fabio      | Question 1     |
+| Fabio      | Question 2     |
+|------------| Question 3     |
+|------------| Question 4     |
+|------------| Question 5     |
+|------------| Question 6     |
+|------------| Question 7     |
+|------------| creating the pdf/slides|
+|------------| proofreading|
+
