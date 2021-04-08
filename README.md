@@ -9,7 +9,8 @@
 | Elias      | Question 4     |
 | Christian  | Question 5     |
 | Christian  | Question 6     |
-|------------| Question 7     |
+| Georg      | Question 7     |
+| Georg      | creating the cover sheet |
 | David | creating the pdf/slides|
 |------------| proofreading|
 
