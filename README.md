@@ -10,6 +10,6 @@
 | Christian  | Question 5     |
 | Christian  | Question 6     |
 |------------| Question 7     |
-|------------| creating the pdf/slides|
+| David | creating the pdf/slides|
 |------------| proofreading|
 
