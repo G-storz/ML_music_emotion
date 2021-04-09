@@ -12,5 +12,6 @@
 | Georg      | Question 7     |
 | Georg      | creating the cover sheet |
 | David | creating the pdf/slides|
-|------------| proofreading|
+| Fabio | proofreading|
+
 
